@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UdariSathsarani1001  
 - 👀 I’m interested in software engineering, UI/UX design, and machine learning.  
-- 🌱 I’m currently learning the MERN stack, Blazor, Flutter, and diving deeper into Machine Learning.  
+- 🌱 I’m currently learning the MERN stack, PHP, Flutter, and diving deeper into Machine Learning.  
 - 💞️ I’m looking to collaborate on innovative projects that align with my interests in technology and design.  
 - 📫 How to reach me:
 -       LinkedIn: https://www.linkedin.com/in/udari-sathsarani-971228241/  
